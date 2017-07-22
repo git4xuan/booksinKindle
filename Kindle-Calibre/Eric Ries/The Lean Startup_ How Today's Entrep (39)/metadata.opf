@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">46af0770-3d3d-4e41-9b8f-a98b5d45de89</dc:identifier>
+        <dc:title>The Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses</dc:title>
+        <dc:creator opf:file-as="Ries, Eric" opf:role="aut">Eric Ries</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-09-12T16:00:00+00:00</dc:date>
+        <dc:publisher>Crown Business</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780307887917</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">06d2a835-948c-4b6d-acd0-542828c1c5db</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Eric Ries&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-06T16:11:57.908000+00:00" name="calibre:timestamp"/>
+        <meta content="Lean Startup: How Today’s Entrepreneurs Use Continuous Innovation to Create Radically Successful Businesses, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

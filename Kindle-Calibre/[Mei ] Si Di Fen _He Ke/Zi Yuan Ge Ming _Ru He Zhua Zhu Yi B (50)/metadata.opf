@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a59b64e1-06a4-4471-9cc8-c04666ff3e92</dc:identifier>
+        <dc:title>资源革命：如何抓住一百年来最大的商机 (《纽约时报》畅销书，麦肯锡前资深合伙人、美国能源部前顾问十年权威研究成果！)</dc:title>
+        <dc:creator opf:file-as="[美] 斯蒂芬·赫克 &amp; 马特·罗杰斯 &amp; 保罗·卡罗尔" opf:role="aut">[美] 斯蒂芬·赫克</dc:creator>
+        <dc:creator opf:file-as="[美] 斯蒂芬·赫克 &amp; 马特·罗杰斯 &amp; 保罗·卡罗尔" opf:role="aut">马特·罗杰斯</dc:creator>
+        <dc:creator opf:file-as="[美] 斯蒂芬·赫克 &amp; 马特·罗杰斯 &amp; 保罗·卡罗尔" opf:role="aut">保罗·卡罗尔</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-07-01T05:00:00+00:00</dc:date>
+        <dc:publisher>浙江人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">84b9468c-9575-43dd-aba6-d358b2786fd5</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[美] 斯蒂芬·赫克&quot;: &quot;&quot;, &quot;保罗·卡罗尔&quot;: &quot;&quot;, &quot;马特·罗杰斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-07T10:58:06.779000+00:00" name="calibre:timestamp"/>
+        <meta content="资源革命：如何抓住一百年来最大的商机 (《纽约时报》畅销书，麦肯锡前资深合伙人、美国能源部前顾问十年权威研究成果！)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

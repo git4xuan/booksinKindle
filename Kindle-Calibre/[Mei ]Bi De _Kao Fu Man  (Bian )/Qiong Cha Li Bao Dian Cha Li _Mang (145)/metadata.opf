@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">145</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e648550a-911b-4ea5-8b5d-2cc803fef0e7</dc:identifier>
+        <dc:title>穷查理宝典查理·芒格的智慧箴言录</dc:title>
+        <dc:creator opf:file-as="[美]彼得·考夫曼 (编)" opf:role="aut">[美]彼得·考夫曼 (编)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-08-27T16:00:00+00:00</dc:date>
+        <dc:description>《穷查理宝典》收录了查理过去20年来主要的公开演讲。除简单而权威的查理传略外，其后的《芒格的生活、学习和决策方法》以及《芒格主义：查理的即席谈话》整理了芒格最精华的思维与决策方式和以往在伯克希尔·哈撒韦公司和西科金融公司年会上犀利——和幽默——的评论。
+　　而最后最珍贵的十一篇讲稿则全面展现了这个传奇人物的聪明才智。贯穿全书的是芒格展示出来的聪慧、机智，其令人敬服的价值观和深不可测的修辞天赋。他拥有百科全书式的知识，所以从古代的雄辩家，到18、19世纪的欧洲文豪，再到当代的流行文化偶像，这些人的名言他都能信手拈来，并用这些来强调终身学习和保持求知欲望的好处。
+　　精装本于5月推出，深受读者欢迎。此次推出平装本，内容同样完整详实。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>经济·管理</dc:subject>
+        <meta content="{&quot;[美]彼得·考夫曼 (编)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-06-14T14:35:07.354000+00:00" name="calibre:timestamp"/>
+        <meta content="穷查理宝典查理·芒格的智慧箴言录" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

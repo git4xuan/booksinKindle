@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aacc3c86-ecba-4e83-a8bf-28fc73b5f55b</dc:identifier>
+        <dc:title>All You Need Is Kill</dc:title>
+        <dc:creator opf:file-as="樱坂洋" opf:role="aut">樱坂洋</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-02-17T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;轻之国度ePub工作组制作&lt;/p&gt;</dc:description>
+        <dc:publisher>轻之国度</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a3035a7d-0e4e-46e3-9db5-c424c6a2b4ee</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>轻小说</dc:subject>
+        <meta content="{&quot;樱坂洋&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-03T15:51:07.215000+00:00" name="calibre:timestamp"/>
+        <meta content="All You Need Is Kill" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

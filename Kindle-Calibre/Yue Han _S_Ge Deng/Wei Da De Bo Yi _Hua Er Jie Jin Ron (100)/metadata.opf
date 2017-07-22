@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">100</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">329a82fc-fcd9-4cb9-a786-6796889d0282</dc:identifier>
+        <dc:title>伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版)</dc:title>
+        <dc:creator opf:file-as="约翰·S·戈登" opf:role="aut">约翰·S·戈登</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>CTCCN</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">901ad4b1-d737-4a6c-a42c-aaf8236f23a7</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;约翰·S·戈登&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-14T08:30:10.692000+00:00" name="calibre:timestamp"/>
+        <meta content="伟大的博弈:华尔街金融帝国的崛起(1653～2011)(珍藏版)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

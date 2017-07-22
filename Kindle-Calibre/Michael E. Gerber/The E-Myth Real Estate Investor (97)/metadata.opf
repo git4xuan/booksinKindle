@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">97</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ca65e86f-7596-49ae-816c-68801992bb6e</dc:identifier>
+        <dc:title>The E-Myth Real Estate Investor</dc:title>
+        <dc:creator opf:file-as="Gerber, Michael E. &amp; Merrill, Than" opf:role="aut">Michael E. Gerber</dc:creator>
+        <dc:creator opf:file-as="Gerber, Michael E. &amp; Merrill, Than" opf:role="aut">Than Merrill</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-04-27T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Leading a real estate investment business can seem like a daunting task, with too few hours in the day, too many petty management issues, and constant fires that have to be put out. The E-Myth Real Estate Investor offers you a road map to create a real estate investment business that's self-sufficient, growing, and highly profitable. Take your business to levels you didn't think possible with this unique guide!&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;Michael E. Gerber is a true legend of entrepreneurship. INC. magazine called him "the World's #1 Small Business Guru." He is the Co-Founder and Chairman of Michael E. Gerber Companies a group of highly unique enterprises dedicated to creating world-class start-ups and entrepreneurs in every industry and economy a company that transforms the way small business owners grow their companies and which has evolved into an empire over its history of nearly three decades.  &lt;/p&gt;
+&lt;p&gt;Than Merrill (San Diego, CA; www.fortunebuilders.com) is the founder and president of FortuneBuilders.com, the largest and most successful real estate educational and coaching company in the country. FortuneBuilders has been featured in Inc. magazine s Inc. 500 List as one of the fastest growing private companies three years in a row. Than has also been featured in 20+ episodes of A&amp;amp;E s hit TV show Flip This House. In the past decade he has done close to 1,000 real estate deals, everything from single-family, to multifamily, to commercial properties.  &lt;/p&gt;
+&lt;p&gt;Paul Esajian (La Jolla, CA; www.fortunebuilders.com) is the founder and owner of multiple successful real estate companies, including the largest and most successful real estate educational and coaching company across North America. FortuneBuilders has been featured in Inc. magazine s Inc. 500 List three years in a row. Paul has successfully managed and executed over a thousand residential real estate transactions, some of his projects which have been featured in 20+ episodes and three seasons of A&amp;amp;E s hit TV show Flip This House. As a national speaker, educator, coach, and real estate investor Paul shares his experience and knowledge over a decade s worth of successful business building and real estate investing.  &lt;/p&gt;
+&lt;p&gt;Than Merrill (San Diego, CA; www.fortunebuilders.com) is the founder and president of FortuneBuilders.com, the largest and most successful real estate educational and coaching company in the country. FortuneBuilders has been featured in Inc. magazine s Inc. 500 List as one of the fastest growing private companies three years in a row. Than has also been featured in 20+ episodes of A&amp;amp;E s hit TV show Flip This House. In the past decade he has done close to 1,000 real estate deals, everything from single-family, to multifamily, to commercial properties.  &lt;/p&gt;
+&lt;p&gt;Paul Esajian (La Jolla, CA; www.fortunebuilders.com) is the founder and owner of multiple successful real estate companies, including the largest and most successful real estate educational and coaching company across North America. FortuneBuilders has been featured in Inc. magazine s Inc. 500 List three years in a row. Paul has successfully managed and executed over a thousand residential real estate transactions, some of his projects which have been featured in 20+ episodes and three seasons of A&amp;amp;E s hit TV show Flip This House. As a national speaker, educator, coach, and real estate investor Paul shares his experience and knowledge over a decade s worth of successful business building and real estate investing. &lt;/p&gt;</dc:description>
+        <dc:publisher>Michael E. Gerber Companies</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">0983554269</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780983554264</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Than Merrill&quot;: &quot;&quot;, &quot;Michael E. Gerber&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="10" name="calibre:rating"/>
+        <meta content="2016-04-14T08:30:09+00:00" name="calibre:timestamp"/>
+        <meta content="E-Myth Real Estate Investor, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

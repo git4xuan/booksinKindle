@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d0bd2bcd-9951-4edd-89b0-27226d56fd7f</dc:identifier>
+        <dc:title>The Last Mile (Amos Decker Series)</dc:title>
+        <dc:creator opf:file-as="Baldacci, David" opf:role="aut">David Baldacci</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-19T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;In his #1 &lt;em&gt;New York Times &lt;/em&gt;bestseller &lt;em&gt;Memory Man&lt;/em&gt;, David Baldacci introduced the extraordinary detective Amos Decker-the man who can forget nothing. Now, Decker returns in a spectacular new thriller . . . &lt;br&gt;
+&lt;strong&gt;THE LAST MILE&lt;/strong&gt;&lt;br&gt;
+Convicted murderer Melvin Mars is counting down the last hours before his execution--for the violent killing of his parents twenty years earlier--when he's granted an unexpected reprieve. Another man has confessed to the crime.&lt;br&gt;
+Amos Decker, newly hired on an FBI special task force, takes an interest in Mars's case after discovering the striking similarities to his own life: Both men were talented football players with promising careers cut short by tragedy. Both men's families were brutally murdered. And in both cases, another suspect came forward, years after the killing, to confess to the crime. A suspect who may or may not have been telling the truth.&lt;br&gt;
+The confession has the potential to make Melvin Mars--guilty or not--a free man. Who wants Mars out of prison? And why now?&lt;br&gt;
+But when a member of Decker's team disappears, it becomes clear that something much larger--and more sinister--than just one convicted criminal's life hangs in the balance. Decker will need all of his extraordinary brainpower to stop an innocent man from being executed.**  &lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;
+&lt;p&gt;**&lt;/p&gt;&lt;/html&gt;&lt;h3&gt;Review&lt;/h3&gt;
+&lt;p&gt;"It's big, bold and almost impossible to put down...Decker is one of the most unusual detectives any novelist has dreamed up...I called this novel a master class on the bestseller because of its fast-moving narrative, the originality of its hero and its irresistible plot....Highly entertaining."―&lt;strong&gt;&lt;em&gt;*Washington Post &lt;/em&gt;on* Memory Man&lt;/strong&gt;**  &lt;/p&gt;
+&lt;p&gt;"David Baldacci has written another thriller that will have readers engaged from the first page....Baldacci is a master storyteller...MEMORY MAN works because Amos Decker is an amazing character. Reading how Decker journeys from hitting rock bottom to finding ultimate redemption is nothing short of rewarding."―&lt;strong&gt;&lt;em&gt;Associated Press on&lt;/em&gt; Memory Man&lt;/strong&gt;**  &lt;/p&gt;
+&lt;p&gt;"Perennial bestseller Baldacci unveils an offbeat hero with an unusual skill set and tragic past who takes on the evil mastermind behind a devastating school shooting..[Decker] proves a quirky, original antihero with a definite method to his madness...Readers will want to see Decker back on the printed page again and again."―&lt;strong&gt;&lt;em&gt;*Kirkus Reviews &lt;/em&gt;on* Memory Man&lt;/strong&gt;**  &lt;/p&gt;
+&lt;p&gt;"[A] strong first in a new thriller series from bestseller Baldacci....Baldacci supplies a multitude of clever touches as his wounded bear of a detective takes on a most ingenious enemy."―&lt;strong&gt;&lt;em&gt;*Publishers Weekly&lt;/em&gt;&lt;em&gt; &lt;/em&gt;on* Memory Man&lt;/strong&gt;**  &lt;/p&gt;
+&lt;p&gt;"Compelling...David Baldacci has definitely hit a home run with MEMORY MAN."―&lt;strong&gt;&lt;em&gt;*Crimespree Magazine &lt;/em&gt;on* Memory Man&lt;/strong&gt;**  &lt;/p&gt;
+&lt;p&gt;"Baldacci weaves a suspenseful story right up to the climactic face-off between these complex and compelling characters. Highly recommended for all thriller fans who love elusive, taunting criminals and the slightly bent but always determined detectives who pursue them."―&lt;strong&gt;&lt;em&gt;*Library Journal&lt;/em&gt; (Starred Review) on* Memory Man&lt;/strong&gt;**  &lt;/p&gt;
+&lt;p&gt;"Baldacci's novels always have an emotional component...But MEMORY MAN stands out among his thrillers for its deeply felt - and earned - sense of catharsis and healing...Baldacci's last few books have been among his best, and it's a pleasure to see him produce emotionally and dramatically intense work at the height of his maturity as a novelist."―&lt;strong&gt;&lt;em&gt;*Richmond Times-Dispatch&lt;/em&gt;&lt;em&gt; &lt;/em&gt;on* Memory Man&lt;/strong&gt;**&lt;/p&gt;
+&lt;h3&gt;About the Author&lt;/h3&gt;
+&lt;p&gt;David Baldacci is a global, #1 bestselling author. His books are published in over 45 languages and in more than 80 countries, and have been adapted for both feature film and television. David Baldacci is also the cofounder, along with his wife, of the Wish You Well Foundation, a nonprofit organization dedicated to supporting literacy efforts across America. &lt;/p&gt;&lt;/html&gt;</dc:description>
+        <dc:publisher>Grand Central Publishing</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">1455586455</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9781455586455</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;David Baldacci&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-06T16:11:57+00:00" name="calibre:timestamp"/>
+        <meta content="Last Mile (Amos Decker Series), The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

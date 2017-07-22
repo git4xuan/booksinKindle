@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">117</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2e0ef440-b80e-4096-843d-2ae7d3f1239d</dc:identifier>
+        <dc:title>知乎一小时 深度短时阅读（套装共十三册） (知乎「一小时」系列)</dc:title>
+        <dc:creator opf:file-as="知乎" opf:role="aut">知乎</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-03-03T16:00:00+00:00</dc:date>
+        <dc:description>Anthology containing:
+
+换头术 2017？：知乎赵思家作品 by 赵思家 知乎 著
+探访黄河源头：知乎闪米特作品 by 闪米特 知乎 著
+皇帝的朱批：知乎 Hasuran Li 作品 by Hasuran Li 知乎 著
+怀孕这件大事儿之产后恢复大作战：知乎杜小溪作品 by 杜小溪 知乎 著
+赶集：知乎吕浩峰作品 by 吕浩峰 知乎 著
+能量守恒：知乎傅渥成作品 by 傅渥成 知乎 著
+财务进阶：知乎猫大叔作品 by 猫大叔 知乎 著
+北京 1643：知乎徐小疼作品 by 徐小疼 知乎 著
+股权是什么：知乎沈一冰作品 by 沈一冰 知乎 著
+以色列：一个国家的诞生（知乎十一点半作品） by 十一点半（司洋） 知乎 著
+你好，门捷列夫：知乎孙亚飞作品 by 孙亚飞 知乎 著
+愈亲密，愈伤害 by 班颖 李昂 知乎 著
+维权常识：知乎 DoonnerDie 作品 by DoonnerDie 知乎 著</dc:description>
+        <dc:identifier opf:scheme="MOBI-ASIN">B01CJSJY2K</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;知乎&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-21T08:37:48.327000+00:00" name="calibre:timestamp"/>
+        <meta content="知乎一小时 深度短时阅读（套装共十三册） (知乎「一小时」系列)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

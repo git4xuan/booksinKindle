@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">59</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">228e2ce9-aa69-4e24-a87b-45b138ebedba</dc:identifier>
+        <dc:title>富爸爸穷爸爸系列丛书10册全集</dc:title>
+        <dc:creator opf:file-as="清崎、莱希特" opf:role="aut">清崎、莱希特</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-04-12T23:09:37+00:00</dc:date>
+        <dc:description>本书由优优电子书http://www.uudzs.com/提供。声明：本站仅为读都提供制作服务，涉及相关版权问题与本站无关！本书《富爸爸穷爸爸系列丛书10册全集》在线阅读地址是：http://www.uudzs.com/book-50113.html</dc:description>
+        <dc:publisher>优优电子书</dc:publisher>
+        <dc:identifier opf:scheme="URI">http://www.uudzs.com/book-50113.html</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;清崎、莱希特&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-14T04:31:19.814000+00:00" name="calibre:timestamp"/>
+        <meta content="富爸爸穷爸爸系列丛书10册全集" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

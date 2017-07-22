@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">148</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">47312b37-06b9-4b82-9c48-92c7747a3235</dc:identifier>
+        <dc:title>宽客人生：从物理学家到数量金融大师的传奇</dc:title>
+        <dc:creator opf:file-as="（美）德曼（Derman,E.） 著" opf:role="aut">（美）德曼（Derman,E.） 著</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">B018G4TD0E</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;（美）德曼（Derman,E.） 著&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-07-04T23:42:58.650000+00:00" name="calibre:timestamp"/>
+        <meta content="宽客人生：从物理学家到数量金融大师的传奇" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

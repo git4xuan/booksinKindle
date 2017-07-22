@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d99338d5-1a3f-49f0-a54d-6548e5085482</dc:identifier>
+        <dc:title>安德的游戏</dc:title>
+        <dc:creator opf:file-as="（美）奥森·斯科特·卡德" opf:role="aut">（美）奥森·斯科特·卡德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-28T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">e717182f-3e78-4bdb-9a98-cfb952722352</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>ibook.178.com</dc:subject>
+        <meta content="{&quot;（美）奥森·斯科特·卡德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-03T15:38:57.609000+00:00" name="calibre:timestamp"/>
+        <meta content="安德的游戏" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

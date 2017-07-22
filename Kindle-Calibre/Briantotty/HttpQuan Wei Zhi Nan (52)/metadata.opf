@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">033bfa6d-829b-4640-8638-bf16e4ec4a16</dc:identifier>
+        <dc:title>Http权威指南</dc:title>
+        <dc:creator opf:file-as="Briantotty &amp; Marjoriesayer &amp; Sailureddy &amp; A &amp; Davidgourley" opf:role="aut">Briantotty</dc:creator>
+        <dc:creator opf:file-as="Briantotty &amp; Marjoriesayer &amp; Sailureddy &amp; A &amp; Davidgourley" opf:role="aut">Marjoriesayer</dc:creator>
+        <dc:creator opf:file-as="Briantotty &amp; Marjoriesayer &amp; Sailureddy &amp; A &amp; Davidgourley" opf:role="aut">Sailureddy</dc:creator>
+        <dc:creator opf:file-as="Briantotty &amp; Marjoriesayer &amp; Sailureddy &amp; A &amp; Davidgourley" opf:role="aut">A</dc:creator>
+        <dc:creator opf:file-as="Briantotty &amp; Marjoriesayer &amp; Sailureddy &amp; A &amp; Davidgourley" opf:role="aut">Davidgourley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-09-02T00:00:00+00:00</dc:date>
+        <dc:description>超文本传输协议（Hypertext Transfer Protocol，HTTP）是在万维网上进行通信时所使用的协议方案。HTTP有很多应用，但最著名的是用于web浏览器和web服务器之间的双工通信。
+HTTP起初是一个简单的协议，因此你可能会认为关于这个协议没有太多好说的。但现在，你手上拿着的是却一本两磅重 的书。如果你对我们怎么会写出一本650页 的关于HTTP的书感到奇怪的话，可以去看一下目录。本书不仅仅是一本HTTP首部的参考手册；它是一本名副其实的web结构圣经。
+本书中，我们尝试着将HTTP中一些互相关联且常被误解的规则梳理清楚，并编写了一系列基于各种主题的章节，对HTTP各方面的特性进行了介绍。纵观全书，我们对HTTP“为什么”这样做进行了详细的解释，而不仅仅停留在它是“怎么做”的。而且，为了节省大家寻找参考文献的时间，我们还对很多HTTP应用程序正常工作所必须的、重要的非HTTP技术进行了介绍。在组织得便于使用的附录中，可以找到按照字母排序的首部参考（这些首部构成了最常见的HTTP文本的基础）。我们希望这种概念性的设计有助于读者对HTTP的使用。
+本书是为所有希望理解HTTP以及Web底层结构的人编写的。软硬件工程师也可以将本书作为HTTP及相关web技术的条理清楚的参考书使用。系统架构师和网络管理员可以通过本书更好地了解如何设计、实现并管理复杂的网络架构。性能工程师和分析人员可以从高速缓存和性能优化的相关章节中获益。市场营销和咨询专家可以通过概念的介绍更好地理解web技术的前景。
+本书对一些常见的误解进行了说明，推荐了“各种使用诀窍”，提供了便捷的参考资料，并且对枯燥且令人费解的标准规范进行了可读性很强的介绍。在这本书里，我们对Web正常工作所必须且互相关联的技术进行了详细的介绍。
+本书是很多对因特网技术充满热情的人经过大量工作写成的。希望对你有所帮助。</dc:description>
+        <dc:publisher>人民邮电出版社</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">7115281483</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">ab4dffe0-a35a-421a-a9d2-87614d4d7f61</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787115281487</dc:identifier>
+        <dc:identifier opf:scheme="DOUBAN">10746113</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>Http</dc:subject>
+        <dc:subject>网络</dc:subject>
+        <dc:subject>计算机</dc:subject>
+        <dc:subject>互联网</dc:subject>
+        <dc:subject>协议</dc:subject>
+        <dc:subject>Web开发</dc:subject>
+        <dc:subject>基础理论</dc:subject>
+        <dc:subject>编程</dc:subject>
+        <meta content="{&quot;Briantotty&quot;: &quot;&quot;, &quot;A&quot;: &quot;&quot;, &quot;Davidgourley&quot;: &quot;&quot;, &quot;Sailureddy&quot;: &quot;&quot;, &quot;Marjoriesayer&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-03-07T10:58:07+00:00" name="calibre:timestamp"/>
+        <meta content="Http权威指南" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

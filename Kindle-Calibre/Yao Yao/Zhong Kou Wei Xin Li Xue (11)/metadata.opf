@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1961f69a-0e7a-48ea-9cd0-2029f5e34a7a</dc:identifier>
+        <dc:title>重口味心理学</dc:title>
+        <dc:creator opf:file-as="姚尧" opf:role="aut">姚尧</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-10-22T08:07:24+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;你的身边是否有些人看起来怪怪的？&lt;br&gt;是不是总有一种事物让你没来由地害怕？&lt;br&gt;你的大脑是否经常不受意识控制地涌入一些想法、影像或冲动？&lt;br&gt;你身边是否有些人会突然性情大变，几乎变成了另一个人？&lt;br&gt;你听说过有的男性有着“害羞的膀胱”吗？他们在公共卫生间小便时一定要等到旁边没人，或者到一个单独的小隔间，否则便尿不出来。 &lt;br&gt;本书是心理学的最后一块隐秘，幽默另类、通俗易懂地讲述了各种重口味心理现象，如多重人格障碍、特定精神分裂、恋童癖、恋物癖、露阴癖、性欲倒错、特定对象恐惧症等，配有大量生动真实的案例，并附作者独到的分析，教你如何一眼看穿身边人的所有秘密和怪癖。&lt;/p&gt;</dc:description>
+        <dc:publisher>中国友谊出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ab0459eb-1d72-4cf6-8830-029771d0f86f</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;姚尧&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-03T15:38:57.804000+00:00" name="calibre:timestamp"/>
+        <meta content="重口味心理学" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

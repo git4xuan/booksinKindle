@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">119</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f1d78299-5969-4463-8c78-f5b6010c30f5</dc:identifier>
+        <dc:title>Docker Cookbook</dc:title>
+        <dc:creator opf:file-as="Goasguen, Sébastien" opf:role="aut">Sébastien Goasguen</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-17T16:00:00+00:00</dc:date>
+        <dc:description>Whether you’re deploying applications on premise or in the cloud, this cookbook provides developers, operators, and IT professionals with more than 130 proven recipes for working with Docker. With these practical solutions, experienced developers with no previous knowledge of Docker will be able to package and deploy distributed applications within a couple of chapters. IT professionals will be able to solve everyday problems, as well as create, run, share, and deploy Docker images. Operators will quickly be able to adopt the tools that will change the way they work.</dc:description>
+        <dc:publisher>O'Reilly Media, Inc.</dc:publisher>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Sébastien Goasguen&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-29T00:32:56.302000+00:00" name="calibre:timestamp"/>
+        <meta content="Docker Cookbook" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

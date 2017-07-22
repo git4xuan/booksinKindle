@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05f48914-3ce6-4e05-a07f-68a12548c5e5</dc:identifier>
+        <dc:title>刘慈欣全集</dc:title>
+        <dc:creator opf:file-as="刘慈欣" opf:role="aut">刘慈欣</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-09-10T16:00:00+00:00</dc:date>
+        <dc:description>大陆新生代科幻的主要代表作家，中国科普作协会员，山西省作家协会会员。自上世纪九十年代开始发表科幻作品，曾于1999年至2007年连续九年获得中国科幻银河奖。作品因宏伟大气、想像绚丽而获得广泛赞誉。他的科幻小说成功地将极端的空灵和厚重的现实结合起来，同时注重表现科学的内涵和美感，努力创造出一种具有中国特色的科幻文学样式。
+　　出生于1963年6月，祖籍河南，山西阳泉长大，1988年毕业于华北水利水电学院水电工程系，后于山西娘子关电厂任计算机工程师。刘慈欣长期关注科幻并尝试写作，他的风格多次变换，直到90年代中期才逐渐定型，并开始赢得读者的喝彩。1999年发表第一篇作品──短篇小说《鲸歌》，同年首次以短篇《带上她的眼睛》获得中国科幻银河奖一等奖；2000年《流浪地球》获中国科幻银河奖特等奖。目前为国内最受欢迎的科幻作家，被誉为中国科幻的领军人物。代表作有长篇小说《超新星纪元》《球状闪电》“地球往事”系列（《三体》《三体II：黑暗森林》及未出版的“三体3”）等，中短篇《流浪地球》《乡村教师》《朝闻道》《全频带阻塞干扰》等。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zh</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <meta content="{&quot;刘慈欣&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-03T14:52:11.615000+00:00" name="calibre:timestamp"/>
+        <meta content="刘慈欣全集" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,184 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">142</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7b9025d3-ffd6-4518-9f02-e4c00ccb1230</dc:identifier>
+        <dc:title>The Economist - 2017.02.04</dc:title>
+        <dc:creator opf:file-as="Economist, The" opf:role="aut">The Economist</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2017-02-03T00:05:01.505434+00:00</dc:date>
+        <dc:description>Global news and current affairs from a European perspective. Best downloaded on Friday mornings (GMT)
+
+此问题的文章： 
+Politics this week
+
+Business this week
+
+KAL's cartoon
+
+American politics: An insurgent in the White House
+
+Universal basic incomes: Bonfire of the subsidies
+
+Emerging markets: Turkeys and blockbusters
+
+Augmented reality: Say AR
+
+Youth and democracy: Vote early, vote often
+
+Letters to the editor: On lifetime learning, France, failed states, Scotland, Donald Trump
+
+Donald Trump’s foreign policy: America first and last
+
+Will it work?: Beware the indirect effects
+
+How America’s allies see it: The world, watching
+
+The Supreme Court: Gorsuch test
+
+Checks and balances: A crumbling fortress
+
+Trade with Mexico: Playing chicken
+
+The economics of immigration: Man and machine
+
+Working and race: Colouring in
+
+The murder rate: Spiking
+
+Lexington: Strength in numbers
+
+Argentina and Brazil: The Mauricio and Michel show
+
+Technology in Cuba: Real virtuality
+
+Terrorism in Quebec City: A not-so-lone wolf
+
+Bello: Rage against the bribes department
+
+Uttar Pradesh goes to the polls: A state of shocks
+
+Police corruption in the Philippines: The usual suspects
+
+An assassination in Myanmar: Death of an advocate
+
+How North Korea depicts the South: Blurred derision
+
+Gambling in Japan: In a spin
+
+Citizenship in New Zealand: Exceptional
+
+Banyan: Sun, sand, sentinels
+
+Local government: Call the mayor!
+
+Hong Kong: Trembling tycoons
+
+Trade restrictions: African Queen
+
+Street vendors in Africa: An unfree trade
+
+Foreign currency in Nigeria: No dollars today
+
+Jordan: Not much might in the Hashemites
+
+Iraq: Mosul after Islamic State
+
+Scandal in France’s presidential race: A wide open contest
+
+Ukraine’s intermittent war: Probing attack
+
+Migrant entrepreneurs: Startup-Kultur
+
+Russian history online: Networking revolution
+
+Business in authoritarian Turkey: Tigers in the snow
+
+Charlemagne: Silent partner
+
+Negotiating post-Brexit deals: Trading places
+
+Euroscepticism and Trumpism: Mr Brexit’s homecoming
+
+The economy: Shop, then drop
+
+Tourism: Vote leave
+
+Alternative religions: The joy of sects
+
+International development: Sweet charity
+
+Rural architecture: From pigsties to prime locations
+
+Bagehot: A dispatch from 2030
+
+Bagehot: Correction: Running on empty
+
+Young people and democracy: Not turning out
+
+Snapchat’s future: Snap to it
+
+ExxonMobil: Upstream with half a paddle
+
+Pet health care: Furry profitable
+
+Logistics firms: Boxed in
+
+Consumer electronics: Screen shocker
+
+Food technology: Plant and two veg
+
+Smartphones in China: Upstarts on top
+
+Schumpeter: Silicon Valiant
+
+Emerging markets: Pop-up markets
+
+The Indian economy: Rupees for nothing
+
+Buttonwood: A taxing problem
+
+Trade deals: Trying For Anything
+
+The Ethiopia Commodity Exchange: High-tech, low impact
+
+Asset management: Ctrl alt-beta
+
+Custodian services: Quis custodiet?
+
+Free exchange: Better than a wall
+
+Augmented reality: Better than real
+
+India: Conviction politicians
+
+Johnson: The giant shoulders of English
+
+Statistics: Nullius in verba
+
+The law in America: Whose rules, whose law
+
+J.S.G. Boggs: His money or his art?
+
+Interactive indicators
+
+Output, prices and jobs
+
+Trade, exchange rates, budget balances and interest rates
+
+The Economist commodity-price index
+
+Metal prices
+
+Markets</dc:description>
+        <dc:publisher>The Economist</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c33c5603-a54d-4643-be99-d2cd42b9d282</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;The Economist&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-06-08T09:53:22.059000+00:00" name="calibre:timestamp"/>
+        <meta content="Economist - 2017.02.04, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

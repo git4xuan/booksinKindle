@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">108</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f496a1da-8765-497d-868d-481d420cd9ff</dc:identifier>
+        <dc:title>博弈论的诡计：日常生活中的博弈策略</dc:title>
+        <dc:creator opf:file-as="王春永" opf:role="aut">王春永</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;《博弈论的诡计:日常生活中的博弈策略》由王春永编著。《博弈论的诡计:日常生活中的博弈策略》内容：博弈论的目的在于巧妙的策略，而不是解法。我们学习博弈论的目的，不是为了享受博弈分析的过程，而在于赢得更好的结局。博弈的思想既然来自现实生活，它就可以高度抽象化地用数学工具来表述，也可以用日常事例来说明，并运用到生活中去。没有高深的数学知识，我们同样通过博弈论的学习成为生活中的策略高手。孙膑没有学过高等数学，但是这并不影响他通过运行策略来帮助田忌赢得赛马。&lt;/div&gt;&lt;div&gt;博弈时时存在，它就在你的身边。本书就是试图通过日常生活中常见的例子，来介绍博弈论的基本思想及运用，并且寻求用种智慧来指导生活决策的方法。&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>中国发展出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">efba4707-2b5c-4ccd-8cdc-b8c3fa307431</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>对策论</dc:subject>
+        <meta content="{&quot;王春永&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-16T13:32:28.042000+00:00" name="calibre:timestamp"/>
+        <meta content="博弈论的诡计：日常生活中的博弈策略" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

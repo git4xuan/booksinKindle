@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4a278a05-ac85-418e-b460-b2cdd6c2f9c6</dc:identifier>
+        <dc:title>创业维艰 (奇点系列)</dc:title>
+        <dc:creator opf:file-as="本·霍洛维茨" opf:role="aut">本·霍洛维茨</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-03-08T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">e075c4f7-c69b-4259-a294-2efc2c5a2faf</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;本·霍洛维茨&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-06T16:11:59.461000+00:00" name="calibre:timestamp"/>
+        <meta content="创业维艰 (奇点系列)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">39feffd0-3504-4b5e-9267-2122ad336c55</dc:identifier>
+        <dc:title>你其实不懂经济学</dc:title>
+        <dc:creator opf:file-as="康海波" opf:role="aut">康海波</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-02-01T08:37:39.006000+00:00</dc:date>
+        <dc:description>《你其实不懂经济学》：突然某一天醒来，发现大白菜都比自己身价高了。其实绿豆涨到10块钱并不是张悟本的功劳，吴晓波说了，这是长期的规律。……一提到经济学，我们经常就会想到那些枯燥乏味的专有名词，以及那些冗长的让普通人不知所谓的概念和原理。但实际的情形是，这些看上去空洞乏味的学科内容，正是基于我们的日常经济行为而产生的。经济学建立的基础并不是虚幻抽象的概念，而是人类现实生活中的经济活动。本书旨在用生动、通俗的语言来指导人们如何认识经济现象和经济活动，如何在经济活动中做出正确的决策。读完本书，你会蓦然发现，那些你耳熟能详的故事中、你每天都会见到的生活现象中，无不闪耀着经济学的光芒。让我们共同在经济学的那些伟大而有趣的定律中寻找生活的本质和真谛吧！</dc:description>
+        <dc:publisher>南方出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787550100039</dc:identifier>
+        <dc:identifier opf:scheme="DOUBAN">5922927</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>经济学，趣味，通俗</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>经济是大事</dc:subject>
+        <dc:subject>通俗易懂</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <dc:subject>通俗</dc:subject>
+        <dc:subject>经济学，通俗</dc:subject>
+        <meta content="{&quot;康海波&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2016-03-07T10:58:06+00:00" name="calibre:timestamp"/>
+        <meta content="你其实不懂经济学" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

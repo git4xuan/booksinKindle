@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">93</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2c85dbc8-0688-44e8-90a4-a8ea266b82f9</dc:identifier>
+        <dc:title>现代操作系统第三版</dc:title>
+        <dc:creator opf:role="aut">未知</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-05T23:58:02+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;未知&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-11T08:15:27.509000+00:00" name="calibre:timestamp"/>
+        <meta content="现代操作系统第三版" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

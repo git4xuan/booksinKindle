@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">135</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0a0f2a0-ffc1-4b4b-8bde-55ab6beebbcf</dc:identifier>
+        <dc:title>软件体的生命周期</dc:title>
+        <dc:creator opf:file-as="[美] 特德·姜" opf:role="aut">[美] 特德·姜</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-15T03:42:59.573000+00:00</dc:date>
+        <dc:description>《软件体的生命周期》结集特德•姜最新创作的六个短篇或中篇小说：《软件体的生命周期》、《赏心悦目》、《商人和炼金术士之门》、《呼吸——宇宙的毁灭》、《前路迢迢》及《达西的新型自动机器保姆》。
+《软件体的生命周期》从人工智能的诞生、成长与衰落着手，探讨了人工智能的发展牵扯到的技术、道德、情感、认知、法律与伦理方面的问题，堪称一部人工智能发展史。
+《赏心悦目》讲述了“审美干扰镜”的发明与应用带来的巨大社会反响。戴上“审美干扰镜”，人们就无法分辨一个人相貌的美丑。这一新技术的诞生是否可以彻底根除相貌歧视，作者让我们与小说中的诸多发言人一起思考。</dc:description>
+        <dc:publisher>译林出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">09237f8c-41fd-4819-965a-7abc182a8148</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787544752466</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>特德·姜</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>短篇集</dc:subject>
+        <dc:subject>美国</dc:subject>
+        <dc:subject>美国文学</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>人工智能问题</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <meta content="{&quot;[美] 特德·姜&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-05-13T15:45:44.342000+00:00" name="calibre:timestamp"/>
+        <meta content="软件体的生命周期" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

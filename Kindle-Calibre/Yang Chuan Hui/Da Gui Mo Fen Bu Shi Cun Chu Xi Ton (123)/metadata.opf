@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">123</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a7710497-5f74-49fe-a5ac-c34b7dad813d</dc:identifier>
+        <dc:title>大规模分布式存储系统：原理解析与架构实战 (大数据技术丛书)</dc:title>
+        <dc:creator opf:file-as="杨传辉" opf:role="aut">杨传辉</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-05T16:00:00+00:00</dc:date>
+        <dc:publisher>机械工业出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c59e534c-0481-4fa3-916e-8fab09403655</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;杨传辉&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-06-02T11:38:07.124000+00:00" name="calibre:timestamp"/>
+        <meta content="大规模分布式存储系统：原理解析与架构实战 (大数据技术丛书)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

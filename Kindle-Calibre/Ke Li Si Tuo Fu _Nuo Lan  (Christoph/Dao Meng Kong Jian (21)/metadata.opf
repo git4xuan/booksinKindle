@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">13e3311c-c595-495d-b958-5d3be740d533</dc:identifier>
+        <dc:title>盗梦空间</dc:title>
+        <dc:creator opf:file-as="克里斯托弗•诺兰 (Christopher Nolan)" opf:role="aut">克里斯托弗•诺兰 (Christopher Nolan)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-24T16:00:00+00:00</dc:date>
+        <dc:publisher>甘肃人民美术出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0085JRJXE</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;克里斯托弗•诺兰 (Christopher Nolan)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-03T15:39:05+00:00" name="calibre:timestamp"/>
+        <meta content="盗梦空间" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

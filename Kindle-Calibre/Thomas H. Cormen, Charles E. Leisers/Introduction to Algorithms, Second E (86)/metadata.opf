@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2849f444-8861-462d-b1f2-422f94264c1a</dc:identifier>
+        <dc:title>Introduction to Algorithms, Second Edition</dc:title>
+        <dc:creator opf:file-as="Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest; Clifford Stein" opf:role="aut">Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest; Clifford Stein</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-01-15T08:45:15.023000+00:00</dc:date>
+        <dc:description>Introduction to Algorithms, Second Edition @Team DDU Converted by Tensecor&lt;heibbai@gmail.com&gt; Published 2001, 1180 pages.</dc:description>
+        <dc:publisher>The MIT Press</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">0262032937</dc:identifier>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest; Clifford Stein&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-23T06:37:21.033000+00:00" name="calibre:timestamp"/>
+        <meta content="Introduction to Algorithms, Second Edition" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

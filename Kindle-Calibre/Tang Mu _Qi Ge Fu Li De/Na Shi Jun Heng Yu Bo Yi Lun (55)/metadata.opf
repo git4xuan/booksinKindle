@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">29796929-f656-44fc-b621-3a36836b75de</dc:identifier>
+        <dc:title>纳什均衡与博弈论</dc:title>
+        <dc:creator opf:file-as="汤姆•齐格弗里德" opf:role="aut">汤姆•齐格弗里德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">d513beca-cea1-4e75-a787-804ef654b06b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>bluebookteam</dc:subject>
+        <meta content="{&quot;汤姆•齐格弗里德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-07T10:58:07.775000+00:00" name="calibre:timestamp"/>
+        <meta content="纳什均衡与博弈论" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

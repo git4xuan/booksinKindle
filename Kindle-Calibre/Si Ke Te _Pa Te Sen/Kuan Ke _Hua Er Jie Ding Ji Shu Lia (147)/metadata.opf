@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">147</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c0efb396-b4c6-4d21-a5e0-4179ec16642b</dc:identifier>
+        <dc:title>宽客：华尔街顶级数量金融大师的另类人生</dc:title>
+        <dc:creator opf:file-as="斯科特•帕特森" opf:role="aut">斯科特•帕特森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-05-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">fa1d629d-5388-4783-ab38-0bd7a0f6e04f</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;斯科特•帕特森&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-07-04T23:37:50.477000+00:00" name="calibre:timestamp"/>
+        <meta content="宽客：华尔街顶级数量金融大师的另类人生" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

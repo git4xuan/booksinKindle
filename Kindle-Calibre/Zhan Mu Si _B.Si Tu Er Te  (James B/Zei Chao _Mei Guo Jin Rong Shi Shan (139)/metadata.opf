@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">139</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5ead1686-f3e3-4723-ac00-cf943313e1fd</dc:identifier>
+        <dc:title>贼巢：美国金融史上最大内幕交易网的猖狂和覆灭</dc:title>
+        <dc:creator opf:file-as="詹姆斯·B.斯图尔特 (James B.Stewart)" opf:role="aut">詹姆斯·B.斯图尔特 (James B.Stewart)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-04-29T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">22fa320c-9383-4b14-a31c-685b645ded15</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;詹姆斯·B.斯图尔特 (James B.Stewart)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-06-08T09:53:05.110000+00:00" name="calibre:timestamp"/>
+        <meta content="贼巢：美国金融史上最大内幕交易网的猖狂和覆灭" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

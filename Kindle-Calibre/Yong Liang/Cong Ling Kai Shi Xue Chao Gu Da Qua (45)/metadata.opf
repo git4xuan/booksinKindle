@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91a9caba-5eae-427e-abeb-ca1d1b7fac2c</dc:identifier>
+        <dc:title>从零开始学炒股大全集（超值金版）</dc:title>
+        <dc:creator opf:file-as="永良" opf:role="aut">永良</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-07-31T16:00:00+00:00</dc:date>
+        <dc:publisher>企业管理出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5539707c-7377-41ac-b843-36e4c21d4736</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;永良&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-07T10:58:05.834000+00:00" name="calibre:timestamp"/>
+        <meta content="从零开始学炒股大全集（超值金版）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

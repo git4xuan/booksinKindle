@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">996dcc62-118f-40e9-9014-4876984b070a</dc:identifier>
+        <dc:title>策略思维</dc:title>
+        <dc:creator opf:file-as="奈尔伯夫" opf:role="aut">奈尔伯夫</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-08-27T16:00:00+00:00</dc:date>
+        <dc:description>耶鲁大学教授奈尔伯夫和普林斯顿大学教授迪克西特的这本著作，用许多活生生的例子，向没有经济学基础的读者展示了博弈论策略思维的道理。试看一例： 　　 奈尔伯夫大学毕业的时候，在剑桥大学的正式舞会上参加轮盘赌游戏并且以700:300的大比数领先。眼看大奖在望，鬼使神差他却无视已经具有的后动优势，在最后一轮大意先行，结果功败垂成。事后他回忆那天酒喝多了，忘记了博弈论的教导：领先的时候要采取让对手先行的保守策略。这位博弈论的高才生，就这样输在原来处于第二位并且曾经求和建议分享奖励的女士手下（参见本书第1章）。 　　　　人生是一个永不停息的决策过程。从事什么样的工作，怎样打理一宗生意，该和谁结婚，怎样将孩子抚养成人，要不要竞争总裁的位置，都是这类决策的例子。你不是在一个真空的世界里做决定。相反，你身边全是和你一样的决策制定者。虽然冲突的成分很多，但是合作的因素也不少。本书将帮助你学会策略地思考，在人生博弈中扩大胜面。 　　　　本书以讲故事取胜。它的学术根源，是迪克西特教授在普林斯顿大学公共与国际事务学院开设的“策略博弈”课程。简而言之，这是关于了解对手打算如何战胜你，然后你战而胜之的艺术。怎样打赢一场网球，少数如何战胜多数，为什么要“喜爱”你最讨厌的对手等等，都在讨论之列。 　　　　这是一门新兴的策略科学，由一些简单的基本原理组成。不同背景和行业的读者掌握了这些原理，运筹帷幄取得胜利的本领就会上升一个层次。</dc:description>
+        <dc:publisher>金读 kindle.im</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787300043388</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>经济管理</dc:subject>
+        <meta content="{&quot;奈尔伯夫&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-14T04:31:19.660000+00:00" name="calibre:timestamp"/>
+        <meta content="策略思维" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

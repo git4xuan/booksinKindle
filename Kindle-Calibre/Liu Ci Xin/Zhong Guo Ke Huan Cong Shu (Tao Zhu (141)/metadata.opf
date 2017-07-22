@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">141</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e0fe785-81f9-4261-9fdd-2acbc325cb0e</dc:identifier>
+        <dc:title>中国科幻丛书（套装共7册）</dc:title>
+        <dc:creator opf:file-as="刘慈欣 &amp; 王晋康 &amp; 何夕 &amp; 刘洋 &amp; 长铗" opf:role="aut">刘慈欣</dc:creator>
+        <dc:creator opf:file-as="刘慈欣 &amp; 王晋康 &amp; 何夕 &amp; 刘洋 &amp; 长铗" opf:role="aut">王晋康</dc:creator>
+        <dc:creator opf:file-as="刘慈欣 &amp; 王晋康 &amp; 何夕 &amp; 刘洋 &amp; 长铗" opf:role="aut">何夕</dc:creator>
+        <dc:creator opf:file-as="刘慈欣 &amp; 王晋康 &amp; 何夕 &amp; 刘洋 &amp; 长铗" opf:role="aut">刘洋</dc:creator>
+        <dc:creator opf:file-as="刘慈欣 &amp; 王晋康 &amp; 何夕 &amp; 刘洋 &amp; 长铗" opf:role="aut">长铗</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-12-09T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">cdb6b23c-7231-4222-aa32-bb5e60ee707b</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;长铗&quot;: &quot;&quot;, &quot;王晋康&quot;: &quot;&quot;, &quot;何夕&quot;: &quot;&quot;, &quot;刘洋&quot;: &quot;&quot;, &quot;刘慈欣&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-06-08T09:53:20.069000+00:00" name="calibre:timestamp"/>
+        <meta content="中国科幻丛书（套装共7册）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

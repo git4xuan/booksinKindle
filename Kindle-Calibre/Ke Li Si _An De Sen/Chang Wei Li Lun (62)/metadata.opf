@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">62</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">848e2716-8ea2-4683-abb0-b8ec83e3509d</dc:identifier>
+        <dc:title>长尾理论</dc:title>
+        <dc:creator opf:file-as="克里斯·安德森" opf:role="aut">克里斯·安德森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-03-08T16:00:00+00:00</dc:date>
+        <dc:description>“你可以把书架上的新经济书籍清除一空了，有《长尾理论》足矣！” 　　
+    何为长尾理论？ 　　
+    书中阐述，商业和文化的未来不在于传统需求曲线上那个代表“畅销商品”（hits）的头部； 而是那条代表“冷门商品”（misses）经常为人遗忘的长尾。 举例来说，一家大型书店通常可摆放10万本书，但亚马逊网络书店的图书销售额中，有四分之一来自排名10万以后的书籍。这些“冷门”书籍的销售比例正以高速成长，预估未来可占整体书市的一半。 　　这意味着消费者在面对无限的选择时，真正想要的东西、和想要取得的渠道都出现了重大的变化，一套崭新的商业模式也跟着崛起。 　　长尾理论无处不在？长尾理论的应用决不止于互联网以及娱乐媒体产业。 　　传统的市场曲线是符合80/20铁律的，为了抢夺那带来80% 利润的畅销品市场，我们厮杀得天昏地暗，但是我们所谓的热门商品正越来越名不副实，比如说黄金电视节目的收视率几十年来一直在萎缩，若放在1970年，现在的一档最佳节目恐怕连前10名之列都难以进入。简言之，尽管我们仍然对大热门着迷，但它们的经济力量已经今非昔比。那么，那些反复无常的消费者们已经转向了什么地方？答案并非唯一。他们散向了四面八方，因为市场已经分化成了无数不同的领域。互联网的出现改变了这种局面，使得99%的商品都有机会进行销售，市场曲线中那条长长的尾部（所谓的利基产品）也咸鱼翻身，成为我们可以寄予厚望的新的利润增长点。</dc:description>
+        <dc:publisher>epub掌上书苑</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>经济管理</dc:subject>
+        <meta content="{&quot;克里斯·安德森&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-14T04:31:20.331000+00:00" name="calibre:timestamp"/>
+        <meta content="长尾理论" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

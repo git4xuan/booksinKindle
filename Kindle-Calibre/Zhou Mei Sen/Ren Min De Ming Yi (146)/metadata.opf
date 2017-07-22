@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">146</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f0d921b0-e5a6-439d-bd20-2d242abc32c6</dc:identifier>
+        <dc:title>人民的名义</dc:title>
+        <dc:creator opf:file-as="周梅森" opf:role="aut">周梅森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-31T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">17b7704a-039f-45e8-ab14-b9e7a64a0e13</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;周梅森&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-06-14T14:44:08.263000+00:00" name="calibre:timestamp"/>
+        <meta content="人民的名义" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">140</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">41c808a1-8d26-4c58-aa22-c5abdc2e5a49</dc:identifier>
+        <dc:title>我们为什么会发胖？</dc:title>
+        <dc:creator opf:file-as="[美]盖里·陶比斯" opf:role="aut">[美]盖里·陶比斯</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-15T03:34:40.258000+00:00</dc:date>
+        <dc:description>为什么有的人吃再多也不胖，有的人喝凉水也发胖？为什么严格、认真节食的人依旧会遭遇反弹的痛苦？
+美国最佳医学科普作者盖里•陶比斯决心为公众找到答案。他花费整整10年，全面调查了一百多年来减肥科学的文献和最前沿的实验，终于发现了肥胖的惊人真相和科学减肥的唯一做法：肥胖者比普通人需要更多的营养来滋养身体，此时盲目少吃，可能会给身体带来不可逆的伤害。要想一次性彻底减肥，必须先优化营养结构，不在于吃多少，而在于吃什么、怎么吃。
+本书一出，立刻震惊国际医学界，美国数千个减肥中心和研究所更新减肥方案，全球数千万肥胖者因此重返健康。最终，美国政府决定重新制定健康减肥新标准，陶比斯也因此三度获得美国国家科学作者奖。本书被誉为21世纪突破减肥瓶颈的大发现。
+翻开本书，揭开肥胖的真实原因，帮你找到减肥的唯一答案，科学减肥绝不失败！
+史上最有智慧的减肥书。——《纽约时报》
+陶比斯是科普作者们的科普作者，他从不愚弄读者。——《科学美国人》</dc:description>
+        <dc:publisher>福建科技出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787533547561</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">2f0b9452-faed-4b41-8eae-caa2ee536ac2</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>健身</dc:subject>
+        <dc:subject>自我管理</dc:subject>
+        <dc:subject>减肥</dc:subject>
+        <dc:subject>瘦身</dc:subject>
+        <dc:subject>健康</dc:subject>
+        <dc:subject>@女性</dc:subject>
+        <dc:subject>好书，值得一读</dc:subject>
+        <dc:subject>生活</dc:subject>
+        <meta content="{&quot;[美]盖里·陶比斯&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-06-08T09:53:14.108000+00:00" name="calibre:timestamp"/>
+        <meta content="我们为什么会发胖？" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

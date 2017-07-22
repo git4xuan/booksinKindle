@@ -1,0 +1,70 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a578552f-5869-4654-b8a0-926e57c88496</dc:identifier>
+        <dc:title>创业时, 我们在知乎聊什么?</dc:title>
+        <dc:creator opf:file-as="Hu, Zhi" opf:role="aut">Zhi Hu</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-01-02T00:00:00+00:00</dc:date>
+        <dc:description>★前所未有的互联网出版实验，500万知友亲手甄选内容，知乎三年创业问答精华大集结
+★史上最真诚创业书，用互联网思维讲透创业的逻辑
+★在知乎，最强大互联网创业群体真实分享创业路上的荣耀与隐忧
+★从Idea到步入正轨，创业公司如何招人、做技术、卖产品、找融资、建团队、处理法务？
+他们在知乎聊创业：
+创新工场创始人李开复
+天使投资人 徐小平
+小米科技创始人 雷军
+微信之父 张小龙
+美团网创始人 王兴
+搜狗创立者 王小川
+奇虎360创始人 周鸿祎
+虾米网创始人 南  瓜
+VeryCD创始人 黄一孟
+啪啪创始人 许朝军
+知乎联合创始人 黄继新
+鲜果网创始人 梁公军
+课程格子创始人 李天放
+手机之家创始人 高春辉
+……
+他们这样聊创业：
+创业的理由有100种，但不论你选了哪一个，你所要面对的事情也许都是一样的
+你这个创业项目如果腾讯跟进了，完全复制你的产品模式，你怎么办？
+创始人之间越是熟悉，越是要“先小人后君子”
+平常心，不吹牛，不畏惧
+我不止一次看到创业者“拍脑袋”，凡事都是“我觉着吧”，而不是“用户觉着吧”
+不赚钱的企业是没有存在价值的，这一点，所有创业的人都必须记在心中
+人才，团队，周报
+不理智的完美主义是很危险的事
+看一份商业计划书就像和一个人交谈。把这个‘人’写好，无论从内容还是风度。
+唯有用户与爱，不可辜负
+……
+知乎创始人周源第一次创业失败，去和创新工场的同事聊，发现其实前两年自己创业时，闭门造车开发一个软件，和世界有些脱节，他意识到如果能更方便地让许多行业里的朋友把自己最懂的事分享出来，其实能避免很多创业的错误，不久他发现了 quora 模式，然后就有了知乎。
+《创业时，我们在知乎聊什么？》是一场前所未有的互联网出版实验。
+知乎作为目前最高质量的知识型问答社区，聚集了中国互联网上科技、商业、文化等领域里最具创造力的人群。由500万知乎用户亲自甄选出近百篇知乎上的创业问答，最终成就本书的出版。
+《创业时，我们在知乎聊什么》是一本关于梦想、创新、如何引爆流行并赢得尊重的青年创业手册。
+本书的回答者包括：互联网行业最成功的创始人、创业家、最具创新精神的投资人、最活跃的产品经理、法律专家、财务分析师、网络工程师、连续创业者、无数知乎控，他们推心置腹地回答每一个创业问题，分享自己隐秘的创业经历，讲述创业路上的荣耀和忧患。
+每个人都可能是创业者，而这些专业级的分享，会让创业者不再孤单。</dc:description>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">c708a29a-4b8f-49ef-ace0-59218d7715ee</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787508643403</dc:identifier>
+        <dc:identifier opf:scheme="DOUBAN">25800616</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">7508643402</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>创业</dc:subject>
+        <dc:subject>知乎</dc:subject>
+        <dc:subject>互联网</dc:subject>
+        <dc:subject>商业</dc:subject>
+        <dc:subject>经济</dc:subject>
+        <dc:subject>新经济</dc:subject>
+        <dc:subject>中国</dc:subject>
+        <dc:subject>管理</dc:subject>
+        <meta content="{&quot;Zhi Hu&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2016-03-14T04:31:20+00:00" name="calibre:timestamp"/>
+        <meta content="创业时, 我们在知乎聊什么?" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

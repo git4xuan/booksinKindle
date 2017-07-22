@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5d645753-e6a8-46c5-ac1a-198b4917f014</dc:identifier>
+        <dc:title>乱世华尔街,一位华人交易员的经历</dc:title>
+        <dc:creator opf:file-as="渔阳" opf:role="aut">渔阳</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-08-08T22:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">40be765a-1dec-4f61-8eee-35f5b9419626</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;渔阳&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-06T16:11:58.192000+00:00" name="calibre:timestamp"/>
+        <meta content="乱世华尔街,一位华人交易员的经历" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

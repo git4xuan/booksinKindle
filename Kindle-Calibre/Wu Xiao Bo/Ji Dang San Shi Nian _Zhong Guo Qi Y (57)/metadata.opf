@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e106a7cb-4ea9-4f7c-8d92-a2a5eb2c23a1</dc:identifier>
+        <dc:title>激荡三十年:中国企业(下）: 杭州蓝狮子文化创意有限公司</dc:title>
+        <dc:creator opf:file-as="吴晓波" opf:role="aut">吴晓波</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社，浙江人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">325378fd-c7c3-45cb-85f4-7db44129034f</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;吴晓波&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-14T04:31:19.344000+00:00" name="calibre:timestamp"/>
+        <meta content="激荡三十年:中国企业(下）: 杭州蓝狮子文化创意有限公司" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

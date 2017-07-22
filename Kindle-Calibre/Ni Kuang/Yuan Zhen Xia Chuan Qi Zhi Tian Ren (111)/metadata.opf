@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">111</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e6ae198c-65e6-488a-b15c-b9f580557292</dc:identifier>
+        <dc:title>原振俠傳奇之天人</dc:title>
+        <dc:creator opf:file-as="倪匡" opf:role="aut">倪匡</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-04-15T13:51:13+00:00</dc:date>
+        <dc:description>三十年前，原林中尉在戰場中救起一名被濕土活埋三小時毫髮無損的日本軍官。三十年後，其子原振俠也因機緣遇到在高溫48度下，四天滴水未沾的游擊隊員，及在冰天雪地中三天三夜未被凍傷的日本女子。這些人的存活到底有著什麼祕密……
+迷路是一件很可怕的事，尤其是在晚上，在濃霧中，又沒有交通工具，只能步行，迷路就更加可怕，有可能永遠到不了目的地，也可能生命就此結束在迷失的路途中。故事是從兩個截然無關的人開始的，看這次原振俠如何解開「迷路」之謎……</dc:description>
+        <dc:publisher>風雲時代</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789575695415</dc:identifier>
+        <dc:identifier opf:scheme="DOUBAN">2052403</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>倪匡</dc:subject>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>原振侠</dc:subject>
+        <dc:subject>卫斯理</dc:subject>
+        <dc:subject>Z2</dc:subject>
+        <dc:subject>衛斯理</dc:subject>
+        <dc:subject>科幻小说</dc:subject>
+        <meta content="{&quot;倪匡&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2016-04-16T13:37:39+00:00" name="calibre:timestamp"/>
+        <meta content="原振俠傳奇之天人" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">91</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5253aa8c-5f3e-4fda-8f4b-627d238bf88a</dc:identifier>
+        <dc:title>悖论简史—哲学和心灵的迷宫</dc:title>
+        <dc:creator opf:file-as="Publications, Zeon Technical" opf:role="aut">Zeon Technical Publications</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-01-11T15:59:22+00:00</dc:date>
+        <dc:language>zh</dc:language>
+        <meta content="{&quot;Zeon Technical Publications&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-11T06:34:04.362000+00:00" name="calibre:timestamp"/>
+        <meta content="悖论简史—哲学和心灵的迷宫" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

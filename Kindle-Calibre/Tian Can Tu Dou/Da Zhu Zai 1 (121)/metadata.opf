@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">121</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">0199b620-9417-4c8d-b182-c10185211af4</dc:identifier>
+        <dc:title>大主宰1</dc:title>
+        <dc:creator opf:file-as="天蠶土豆" opf:role="aut">天蠶土豆</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-09-23T09:56:43.870000+00:00</dc:date>
+        <dc:description>牧塵，是一名北靈境中史無前例取得「靈路」資格的少年。通過「靈路」的試驗後，便絕對能夠進入「五大院」學習，只有真正優秀的天才能夠擁有這樣的機會。然而本應該是天之驕子的牧塵，卻沒能完成在靈路之中的試煉，半途被踢了出來，而這也是史無前例。
+沒有人知道背後原因為何，許多人因此認為他不過是僥倖得到資格。然而牧塵將用他的實力證明，就算沒能在靈路中走到最後，他也將會成為五大院的其中一員！</dc:description>
+        <dc:publisher>九星文化</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9789863344445</dc:identifier>
+        <dc:identifier opf:scheme="DOUBAN">25733653</dc:identifier>
+        <dc:language>zh</dc:language>
+        <dc:subject>天蚕土豆</dc:subject>
+        <dc:subject>网络小说</dc:subject>
+        <dc:subject>天蚕土豆，玄幻小说</dc:subject>
+        <dc:subject>小说</dc:subject>
+        <dc:subject>玄幻</dc:subject>
+        <dc:subject>武仙侠玄奇神</dc:subject>
+        <dc:subject>台版-中国奇幻</dc:subject>
+        <dc:subject>武侠言情</dc:subject>
+        <meta content="{&quot;天蠶土豆&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2016-05-11T09:56:30.258000+00:00" name="calibre:timestamp"/>
+        <meta content="大主宰1" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

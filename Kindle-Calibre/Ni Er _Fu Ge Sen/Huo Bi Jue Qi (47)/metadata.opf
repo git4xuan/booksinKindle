@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b2d93b70-e75b-4c97-8282-c0046d4a5cd2</dc:identifier>
+        <dc:title>货币崛起</dc:title>
+        <dc:creator opf:file-as="尼尔·弗格森" opf:role="aut">尼尔·弗格森</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;货币崛起&lt;/p&gt;</dc:description>
+        <dc:publisher>COAY.COM</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">10a73f34-5182-44de-bcfc-15ccfaa9aaed</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>货币崛起</dc:subject>
+        <meta content="{&quot;尼尔·弗格森&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-07T10:58:06.254000+00:00" name="calibre:timestamp"/>
+        <meta content="货币崛起" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8e303499-4d64-41c9-8147-fec5743b0724</dc:identifier>
+        <dc:title>一个外企面试官的面经</dc:title>
+        <dc:creator opf:file-as="~" opf:role="aut">~</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>一个外企面试官的面经</dc:description>
+        <dc:publisher>COAY.COM</dc:publisher>
+        <dc:language>zho</dc:language>
+        <dc:subject>一个外企面试官的面经</dc:subject>
+        <meta content="{&quot;~&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-14T04:31:20.613000+00:00" name="calibre:timestamp"/>
+        <meta content="一个外企面试官的面经" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

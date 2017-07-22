@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">113</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5bb8256e-b554-469b-9531-4552acdbe4cf</dc:identifier>
+        <dc:title>麦肯锡方法（经管图书的常青树，外企员工入职必读图书，从五大方面揭示了麦肯锡工作的小窍门）</dc:title>
+        <dc:creator opf:file-as="艾森·拉塞尔(Ethan M.Rasiel)" opf:role="aut">艾森·拉塞尔(Ethan M.Rasiel)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2009-12-31T16:00:00+00:00</dc:date>
+        <dc:publisher>China Machine Press</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">8e61bb71-445d-4c4d-8043-88a9b36a1035</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;艾森·拉塞尔(Ethan M.Rasiel)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-04-16T13:49:33.401000+00:00" name="calibre:timestamp"/>
+        <meta content="麦肯锡方法（经管图书的常青树，外企员工入职必读图书，从五大方面揭示了麦肯锡工作的小窍门）" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

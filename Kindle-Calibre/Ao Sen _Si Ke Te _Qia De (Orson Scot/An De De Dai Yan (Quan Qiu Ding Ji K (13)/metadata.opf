@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d9615313-e856-4ab9-b536-c5b164a91906</dc:identifier>
+        <dc:title>安德的代言(全球顶级科幻大师系列)</dc:title>
+        <dc:creator opf:file-as="奥森·斯科特·卡德(Orson Scott Card)，段跣，高颖" opf:role="aut">奥森·斯科特·卡德(Orson Scott Card)，段跣，高颖</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-11-30T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;在整个“安德”系列中，卡德对文明的和解表现出了极大的热情。如果说在《安德的游戏》中这一点还不够突出，那么在《安德的代言》中，安德为文明和解所做的努力则已经毫无遮掩地占据了小说的中心。安德不仅是死者的代言人，也是神的化身，他的调查自然演变成了对不同种族和解的推动（也是自身的救赎），这种努力最终取得成功：不仅猪仔和人类建立了直接的交流，被安德亲手毁灭的虫族也开始在和平的环境下复兴。&lt;/p&gt;</dc:description>
+        <dc:publisher>广西科学技术出版社,万卷出版公司</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">cb501f87-d2ea-4bce-ae7c-271704179680</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科幻</dc:subject>
+        <dc:subject>畅销流行</dc:subject>
+        <meta content="{&quot;奥森·斯科特·卡德(Orson Scott Card)，段跣，高颖&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-03T15:38:58.232000+00:00" name="calibre:timestamp"/>
+        <meta content="安德的代言(全球顶级科幻大师系列)" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

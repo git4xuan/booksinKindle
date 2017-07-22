@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">6</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">eb15f880-1a68-46b5-9aee-40ae7183f8f8</dc:identifier>
+        <dc:title>安德的影子</dc:title>
+        <dc:creator opf:file-as="奥森·斯科特·卡德" opf:role="aut">奥森·斯科特·卡德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-07-14T16:00:00+00:00</dc:date>
+        <dc:description>&lt;p class="description"&gt;人类处在与虫族——人类外的一个种族——的战争中。头一次战争结果惨痛，现在地球武装好自己，要抗拒被异族敌人完全毁灭的威胁，而这一切的中心，就是要发展和训练可以适应那种战斗并取得胜利的军事天才。星际间遥远的距离是否能够给地球的保卫者带来希望呢？他们有时间从孩童时期开始训练这些未来的指挥官，在远地轨道上一个叫做战斗学校的设备里，在不可抗拒的压力下训练他们。安德鲁（安德）维京并不是战斗学校中唯一的孩子；他只是最好中的最好。在这本新的书中，卡德要讲述另外一个早熟的将领的故事，那个人被称为比恩（豆子）？他以战略家的头脑和友好的态度最后成为安德的左膀右臂。一个在他的身边，作为他战队的一员参加对抗虫族的最后战役的人。&lt;br&gt;比恩不过是一次战役的生还者。作为一个瘦小但是具有超人的头脑的孩子，他最初出现在鹿特丹的街道上。他知道他不可能在强大的威胁中幸存下来，于是他采用了自己的战术，天才地被一个儿童团伙吸收接纳，然后帮助那个团伙成功地成为其他人的榜样。他让他们变得更文明，并能够活着长大。比恩为了生存的拼命奋斗，他的成功令他得到战斗学校的招募人的注意，那些人为了寻找能够从外敌入侵的威胁中拯救地球的领导者、策士和将军而找遍了这个行星。比恩被送上了轨道上的战斗学校。在那里，他遇见了安德……&lt;/p&gt;</dc:description>
+        <dc:publisher>四川科学技术出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787536454712</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;奥森·斯科特·卡德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-03T15:38:56.411000+00:00" name="calibre:timestamp"/>
+        <meta content="安德的影子" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

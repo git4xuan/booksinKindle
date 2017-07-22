@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">137</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dd5bb9df-9a1e-4281-ba2f-ab221273bf0c</dc:identifier>
+        <dc:title>未来简史</dc:title>
+        <dc:creator opf:file-as="[以色列]尤瓦尔·赫拉利" opf:role="aut">[以色列]尤瓦尔·赫拉利</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-20T16:00:00+00:00</dc:date>
+        <dc:publisher>中信出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787508672069</dc:identifier>
+        <dc:identifier opf:scheme="ASIN">B01MYH8A99</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;[以色列]尤瓦尔·赫拉利&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-05-20T03:56:12.843000+00:00" name="calibre:timestamp"/>
+        <meta content="未来简史" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

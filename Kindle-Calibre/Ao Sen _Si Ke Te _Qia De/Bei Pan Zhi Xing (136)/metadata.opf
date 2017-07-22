@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">136</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9578743d-95be-4d6b-9eb3-42248b94c94d</dc:identifier>
+        <dc:title>背叛之星</dc:title>
+        <dc:creator opf:file-as="奥森·斯科特·卡德" opf:role="aut">奥森·斯科特·卡德</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-06-30T16:00:00+00:00</dc:date>
+        <dc:publisher>浙江文艺出版社</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9787533945633</dc:identifier>
+        <dc:language>zho</dc:language>
+        <meta content="{&quot;奥森·斯科特·卡德&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2017-05-13T15:45:50.874000+00:00" name="calibre:timestamp"/>
+        <meta content="背叛之星" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

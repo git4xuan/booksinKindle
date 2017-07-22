@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">897dd347-da5b-49b1-b46b-340b3b695014</dc:identifier>
+        <dc:title>星际穿越</dc:title>
+        <dc:creator opf:file-as="基普·索恩" opf:role="aut">基普·索恩</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.25.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-05-31T16:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;div&gt;没看过这本书，别说你懂《星际穿越》！天体物理学巨擘基普·索恩写给所有人的天文学通识读本，媲美霍金《时间简史》的又一里程碑式著作！好莱坞顶级导演克里斯托弗•诺兰、欧阳自远等3大院士、李淼、魏坤琳（Dr.魏）等5大顶尖科学家、《三体》作者刘慈欣联袂推荐！&lt;/div&gt;&lt;div&gt;在《星际穿越》之后，这一系列问题全世界都在问！本书将会告诉你答案！&lt;/div&gt;&lt;div&gt;为什么黑洞会吞噬一切，甚至连光都不能幸免？&lt;/div&gt;&lt;div&gt;为什么虫洞不是一个洞，而是一个球？&lt;/div&gt;&lt;div&gt;又是什么神奇的力量，让米勒星球上的一小时等于地上七年？&lt;/div&gt;&lt;div&gt;最简明清晰的时间与空间理论入门读本。基普·索恩教授，电影《星际穿越》的唯一科学指导，以浅显易懂的语言一一破解了宇宙中的让人瞠目结舌的奇景——大爆炸、黑洞、时空弯曲、潮汐力、虫洞、引力弹弓、星际旅行等，解释了所有推动剧情的天体物理学理论，还就内容的真实性将书中的科学知识分为三种：科学事实、有根据的推测和猜想，并做了明确的标注，以帮助我们解开所有剧情设计与时空旅行之谜！&lt;/div&gt;&lt;div&gt;14大独家视频随书讲解，打造科普阅读新体验！苟利军、王乔和王岚三位专家对于书中的黑洞、虫洞、高维空间和时间旅行等主题特别录制了讲解视频，随书同读，穿越无限。&lt;/div&gt;&lt;div&gt;四色彩印、酷炫视效，史上最惊艳、最走心的科普巨制！&lt;/div&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>浙江人民出版社</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">45a421d3-12de-497f-9e67-ef3383a51373</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>科技自然</dc:subject>
+        <meta content="{&quot;基普·索恩&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-03T15:38:58.603000+00:00" name="calibre:timestamp"/>
+        <meta content="星际穿越" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

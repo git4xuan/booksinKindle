@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">87</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">a30234ff-56a1-4fb3-9526-a42a8f1de66b</dc:identifier>
+        <dc:title>犹太人的货币战争</dc:title>
+        <dc:creator opf:file-as="编, 张伟" opf:role="aut">张伟 编</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.53.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2008-04-15T12:41:24.829000+00:00</dc:date>
+        <dc:description>《犹太人的货币战争:管理精英的案头必备》全面解读了犹太人赚钱的方略，力图对犹太人的货币战争作一个全面的展示，在这里，你将知道怎样从法律的缝隙中掏出金币，怎样用智慧聚敛财富，怎样打赢每一场赚钱战役，怎样在风口浪尖上淘金，怎样在谈判桌上赚钱，等等。这是一本犹太人赚钱智慧书，希望读者朋友们认真阅读，它必定会让你受益匪浅。犹太民族是世界上最富有的民族，犹太商人是世界上第一等的商人，尽管全世界所有犹太人加起来还占不到人类总数的1%，但是他们却经常成为人们的话题，受到人们的关注。有些权威人士曾经这样调侃：三个犹太商人在家打个喷嚏，世界上所有的银行都将会引起感冒；五个犹太财团坐在一起，便能控制整个人类的黄金市场；美国虽然是首富，但美国人的钱却装在犹太人的口袋中。
+也许因为犹太人太能干、太精明，上帝赐给他们的“应许之地”贫瘠无比：地上少内河，地下无矿藏，一半国土是荒漠。然而，流散世界两千多年后，他们竟能在这样的环境中复兴，让荒漠变绿洲，农业、教育、军事和科技都很发达。</dc:description>
+        <dc:identifier opf:scheme="DOUBAN">3135723</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9787802143852</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>犹太人</dc:subject>
+        <dc:subject>犹太人智慧全书</dc:subject>
+        <dc:subject>经济学</dc:subject>
+        <dc:subject>Y</dc:subject>
+        <dc:subject>多看</dc:subject>
+        <dc:subject>犹太人的智慧</dc:subject>
+        <dc:subject>￥0.00</dc:subject>
+        <meta content="{&quot;张伟 编&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="6" name="calibre:rating"/>
+        <meta content="2016-04-06T12:40:38.750000+00:00" name="calibre:timestamp"/>
+        <meta content="犹太人的货币战争" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>

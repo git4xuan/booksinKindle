@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">dec77f47-03f6-414e-8e64-08872ce19271</dc:identifier>
+        <dc:title>国富论</dc:title>
+        <dc:creator opf:file-as="(英)亚当·斯密(Smith,A.)" opf:role="aut">(英)亚当·斯密(Smith,A.)</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.52.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-11-16T16:00:00+00:00</dc:date>
+        <dc:identifier opf:scheme="MOBI-ASIN">1bad8d4d-3563-4244-9668-390118df3bc6</dc:identifier>
+        <dc:language>zho</dc:language>
+        <dc:subject>经济</dc:subject>
+        <meta content="{&quot;(英)亚当·斯密(Smith,A.)&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2016-03-14T04:31:20.831000+00:00" name="calibre:timestamp"/>
+        <meta content="国富论" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="封面" type="cover"/>
+    </guide>
+</package>
